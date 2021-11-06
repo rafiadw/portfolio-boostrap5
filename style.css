@@ -10,3 +10,12 @@ body {
 section {
   padding-top: 5rem;
 }
+
+.card a {
+  text-decoration: none;
+  color: black;
+}
+
+.card a h3:hover {
+  color: #3d3e87;
+}
